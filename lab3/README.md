@@ -1,4 +1,4 @@
-En este trabajo nuestra intención es construir un Quadtree a traves de datos aleatorios que seran ubicados en un plano cartesiano.
+En este trabajo mi intención es construir un Quadtree a traves de datos aleatorios que seran ubicados en un plano cartesiano.
 Aunque se pudo llegar un mejor trabajo se termino construyendo un Quadtree con muchos problemas mucha ineficiencia y funcionalidades a medias
 
 librerias utilizadas:
@@ -31,6 +31,10 @@ def puntoMasCercanoFuerzaBruta(direcciones, punto):
   Busca el punto mas cercano revisdando toda la lista dde puntos, comparando las distancias saca el mejor candidato
 def dibujar:
   dibuja la grafica del quadtree
+
+
+Aprovecho para pedir disculpas, el trabajo me agarro en parciales y la verdad pudo estar mejor hecho, no entendí muy bien el concepto del Quadtree pero esto es lo que pude hacer,
+en algún momento del trabajo tuve que volver a empezar porque había hecho las particiones según los puntos y no la mitad del plano, pido perdón y resolveré mis dudas en clase.
 
 
   
